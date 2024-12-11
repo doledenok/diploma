@@ -7,5 +7,5 @@ $ make
 
 Зависимости:
 ```
-$ sudo apt install texlive-latex-recommended texlive-lang-cyrillic texlive-science
+$ sudo apt install latexmk texlive-latex-recommended texlive-lang-cyrillic texlive-science texlive-formats-extra
 ```
